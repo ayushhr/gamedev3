@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: 7da4575afb914418586b6e857b1587d1
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -952704804449705435
+    second: Pacman ghosts all states_0
+  - first:
+      213: -1375840782515871723
+    second: Pacman ghosts all states_1
+  - first:
+      213: 728221635883125122
+    second: Pacman ghosts all states_2
+  - first:
+      213: 644666410527353018
+    second: Pacman ghosts all states_3
+  - first:
+      213: 3812895058929661517
+    second: Pacman ghosts all states_4
+  - first:
+      213: 7082123949306629601
+    second: Pacman ghosts all states_5
+  - first:
+      213: 3354537122680032977
+    second: Pacman ghosts all states_6
+  - first:
+      213: 4786356435628592851
+    second: Pacman ghosts all states_7
+  - first:
+      213: -2849881269981629030
+    second: Pacman ghosts all states_8
+  - first:
+      213: 6202753233270535257
+    second: Pacman ghosts all states_9
+  - first:
+      213: 62733385085787459
+    second: Pacman ghosts all states_10
+  - first:
+      213: -1786844827663284226
+    second: Pacman ghosts all states_11
+  - first:
+      213: 1154498394201217320
+    second: Pacman ghosts all states_12
+  - first:
+      213: 6416294820686580415
+    second: Pacman ghosts all states_13
+  - first:
+      213: 4966781657948894685
+    second: Pacman ghosts all states_14
+  - first:
+      213: 7457962258470978730
+    second: Pacman ghosts all states_15
+  - first:
+      213: -4596241558044473940
+    second: Pacman ghosts all states_16
+  - first:
+      213: -8518830186546547205
+    second: Pacman ghosts all states_17
+  - first:
+      213: -5972864290562321463
+    second: Pacman ghosts all states_18
+  - first:
+      213: 8384153520523192646
+    second: Pacman ghosts all states_19
+  - first:
+      213: 9060173427907317182
+    second: Pacman ghosts all states_20
+  - first:
+      213: -360351958695762255
+    second: Pacman ghosts all states_21
+  - first:
+      213: -4407953745678627151
+    second: Pacman ghosts all states_22
+  - first:
+      213: 1079960252049920020
+    second: Pacman ghosts all states_23
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +112,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +142,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Pacman ghosts all states_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2029
+        width: 134
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522a7fa270057c2f0800000000000000
+      internalID: -952704804449705435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_1
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2029
+        width: 132
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51065aa091808ece0800000000000000
+      internalID: -1375840782515871723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_2
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2029
+        width: 133
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289419438b92b1a00800000000000000
+      internalID: 728221635883125122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_3
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2029
+        width: 133
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8eb1e4fa052f800800000000000000
+      internalID: 644666410527353018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_4
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 2029
+        width: 132
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d463851cadf1ae430800000000000000
+      internalID: 3812895058929661517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1549
+        width: 134
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed45bd8532c84260800000000000000
+      internalID: 7082123949306629601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_6
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1549
+        width: 132
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de443f6db5bd8e20800000000000000
+      internalID: 3354537122680032977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_7
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1549
+        width: 133
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de0c0aa1dd8c6240800000000000000
+      internalID: 4786356435628592851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_8
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1549
+        width: 133
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95b4b295103378d0800000000000000
+      internalID: -2849881269981629030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_9
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1549
+        width: 132
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954fe7ab33b941650800000000000000
+      internalID: 6202753233270535257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1059
+        width: 134
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d989d6eafded000800000000000000
+      internalID: 62733385085787459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_11
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1068
+        width: 132
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7c26aa81ad337e0800000000000000
+      internalID: -1786844827663284226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_12
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1068
+        width: 124
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8295f183c2a950010800000000000000
+      internalID: 1154498394201217320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_13
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1068
+        width: 143
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbac339f4224b0950800000000000000
+      internalID: 6416294820686580415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_14
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1068
+        width: 143
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd538fe4a9d8de440800000000000000
+      internalID: 4966781657948894685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 589
+        width: 143
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4ce6cf821008760800000000000000
+      internalID: 7457962258470978730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_16
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 589
+        width: 143
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca50fd6a7aed630c0800000000000000
+      internalID: -4596241558044473940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_17
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 589
+        width: 142
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5b40d741907c980800000000000000
+      internalID: -8518830186546547205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_18
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 589
+        width: 143
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3da65c29f1c1da0800000000000000
+      internalID: -5972864290562321463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_19
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 589
+        width: 143
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649202da43f7a5470800000000000000
+      internalID: 8384153520523192646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 108
+        width: 143
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd49d5dab33cbd70800000000000000
+      internalID: 9060173427907317182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_21
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 108
+        width: 143
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6a2d38dc5cffaf0800000000000000
+      internalID: -360351958695762255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_22
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 108
+        width: 142
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be09723c6dc3d2c0800000000000000
+      internalID: -4407953745678627151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pacman ghosts all states_23
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 289
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4101afa902accfe00800000000000000
+      internalID: 1079960252049920020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
